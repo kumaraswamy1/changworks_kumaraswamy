@@ -1,0 +1,17 @@
+body {
+	background-color: #000000e8;
+	margin: 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.App {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.App h1 {
+	color: rgb(245, 245, 245);
+	font-size: 6rem;
+}
